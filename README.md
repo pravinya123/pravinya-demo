@@ -1,0 +1,2 @@
+# pravinya-demo
+practices repository
